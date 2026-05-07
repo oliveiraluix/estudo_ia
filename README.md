@@ -1,4 +1,4 @@
-# 🧪 TESTE-CODEX
+# 🧪 TESTE-IA
 
 Projeto de estudos em automação de testes com **Cypress**, utilizando dados dinâmicos com **Faker.js** e apoio de **Inteligência Artificial** para acelerar o aprendizado.
 
